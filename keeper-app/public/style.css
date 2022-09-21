@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  font-family: "Kanit", sans-serif;
+  background-color: rgb(255, 102, 0);
+  color: white;
+  height: 100px;
+  padding-top: 27px;
+  padding-left: 45px;
+}
+
+footer {
+  margin-top: 350px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: rgb(88, 80, 75);
+  font-size: 12px;
+}
+
+body {
+  background-color: rgb(228, 228, 228);
+}
+
+.content {
+  margin-top: 25px;
+  margin-left: 35px;
+  margin-bottom: 25px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  width: 250px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.content h1 {
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+}
+
+.content p {
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+}
+
+.card {
+  display: flex;
+}

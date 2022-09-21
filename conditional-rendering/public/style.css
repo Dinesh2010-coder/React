@@ -1,0 +1,43 @@
+* {
+  text-align: center;
+}
+body {
+  background-color: rgba(8, 107, 124, 0.808);
+  color: rgb(253, 246, 246);
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.heading {
+  padding-top: 100px;
+  padding-bottom: 0px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.myForm {
+  margin-top: 0px;
+}
+.myForm input {
+  margin-top: 2px;
+  margin-left: 160px;
+  margin-bottom: 2px;
+  height: 35px;
+  width: 250px;
+  display: block;
+  border: 1px solid rgba(252, 252, 252, 0.4);
+  background-color: rgba(252, 252, 252, 0.2);
+  color: white;
+}
+
+.myForm button {
+  height: 45px;
+  width: 257px;
+  border-radius: 3px;
+  background-color: rgb(224, 215, 206);
+  border-color: rgb(224, 215, 206);
+  color: red;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+  align-items: center;
+  padding-bottom: 8px;
+}

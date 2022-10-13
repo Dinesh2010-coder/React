@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: blueviolet;
+  color: white;
+}
+
+p {
+  margin-top: 25vh;
+  font-size: 10vh;
+}
